@@ -1,0 +1,10 @@
+Idea 5,accepted,Ben,1
+Idea 10,accepted,John,1
+New1,accepted,Ariana,2
+New10,proposed,Ariana,2
+New IDea 5,proposed,Ben,2
+Idea 2,proposed,Ben,2
+New3,proposed,Ben,2
+New IDea 4,proposed,Ben,2
+Idea 1,accepted,John,3
+New,accepted,John,3
